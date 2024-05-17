@@ -1,5 +1,5 @@
 
 
-## Brawl Stars Interactive Cheat Sheet
+## Brawl Stars Drafter
 
-This is a [Next.js](https://nextjs.org/) project. It features optimal picks and bans for brawl stars maps, builds for each brawler and more. 
+This is a [Next.js](https://nextjs.org/) project that provides users with drafts for each map, counters & best builds. 
